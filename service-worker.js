@@ -1,0 +1,7 @@
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/service-worker.js');
+}
+
+self.addEventListener('install', e => {
+  console.log('Service Worker installiert');
+});
