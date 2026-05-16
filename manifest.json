@@ -1,6 +1,6 @@
 {
-  "name": "Meine App",
-  "short_name": "App",
+  "name": "Speedcounter 3.0",
+  "short_name": "Speedcounter",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
